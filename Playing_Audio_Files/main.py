@@ -2,5 +2,5 @@
 from pydub import AudioSegment
 from pydub.playback import play
 
-song = AudioSegment.from_wav("Ahmed.wav")
+song = AudioSegment.from_wav("Adele.wav")
 play(song)
